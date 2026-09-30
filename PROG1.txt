@@ -8,3 +8,13 @@
 8.acera - https://dle.rae.es/acera?m=form
 9.carretera - https://dle.rae.es/carretera?m=form
 10.señal - https://dle.rae.es/se%C3%B1al?m=form
+1.lampara-https://dle.rae.es/l%C3%A1mpara
+2.cara-https://dle.rae.es/cara?m=form
+3.ojos-https://dle.rae.es/ojo?m=form
+4.guion-https://dle.rae.es/guion?m=form
+5.guapo-https://dle.rae.es/guapo?m=form
+6.feo-https://dle.rae.es/feo?m=form
+7.raiz-https://dle.rae.es/raiz?m=form
+8.vale-https://dle.rae.es/vale?m=form
+9.numerar-https://dle.rae.es/numerar?m=form
+10.ultimo-https://dle.rae.es/ultimar?m=form
