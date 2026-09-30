@@ -1,0 +1,10 @@
+1.jugador - https://dle.rae.es/jugador
+2.cabeza - https://dle.rae.es/cabeza?m=form
+3.futbol - https://dle.rae.es/f%C3%BAtbol?m=form
+4.baloncesto - https://dle.rae.es/baloncesto?m=form
+5.lluvia - https://dle.rae.es/lluvia?m=form
+6.coche - https://dle.rae.es/coche?m=form
+7.todoterreno - https://dle.rae.es/todoterreno?m=form
+8.acera - https://dle.rae.es/acera?m=form
+9.carretera - https://dle.rae.es/carretera?m=form
+10.señal - https://dle.rae.es/se%C3%B1al?m=form
